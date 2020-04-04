@@ -1,0 +1,21 @@
+.card-img-block img{
+   width: 100%;
+}
+.card-body h3 a{
+   color: #40e0d0;
+}
+a.btn_xprofile{
+   background: #633a82;
+   line-height: 22px;
+   margin-top: 18px;
+   text-transform: uppercase;
+   color: #ddd;
+}
+a.btn_xprofile:hover{
+   color: #40e0d0;
+}
+.card h6 svg{
+   color: #40e0d0;
+   margin-right: 8px;
+   font-size: 20px;
+}

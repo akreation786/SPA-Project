@@ -1,0 +1,40 @@
+.profile_card img{
+   width: 100%;
+}
+.card{
+   margin-bottom: 20px;
+}
+.card_section{
+   margin-bottom: 40px;
+}
+.card_section h4{
+   color: #40e0d0;
+   text-transform: uppercase;
+   font-weight: 600;
+   border-bottom: 1px solid #ddd;
+   padding-bottom: 8px;
+}
+.card_section h5{
+   font-weight: 300;
+   font-style: italic;
+   margin-top: -10px;
+   color: #000;
+   margin-bottom: 30px;
+}
+.card_section h6{
+   border-bottom: 2px solid #dddddd;
+}
+.card_section ul{
+   margin: 0;
+   padding: 0;
+}
+
+.card_section ul li{
+   padding: 5px 15px;
+   border: 1px solid #ccc;
+   border-radius: 5px;
+   float: left;
+   margin-right: 8px;
+   margin-bottom: 8px;
+   list-style: none;
+}

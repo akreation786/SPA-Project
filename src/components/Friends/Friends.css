@@ -1,0 +1,11 @@
+.body_heading{
+   background-color: #f1fcfc;
+   padding: 10px 0px;
+}
+.body_heading{
+   text-align: center;
+}
+.body_heading h3{
+   text-transform: uppercase;
+   color: #633a82;
+}
